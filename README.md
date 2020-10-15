@@ -13,4 +13,5 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-blueviolet?style=flat-square">
 </p>
 
+### Como rodar a aplicação
 
